@@ -870,14 +870,14 @@ section {
   transition: all ease-in-out 0.3s;
 }
 
-#logoGlovoo{
+#logoGlovo{
   filter: brightness(93%);
   transition: all ease-in-out 0.3s;
   width: 64px;
   border-radius: 10px 10px 10px 10px;
 }
 
-#logoGlovoo:hover{
+#logoGlovo:hover{
   filter: brightness(100%);
   transition: all ease-in-out 0.3s;
 }

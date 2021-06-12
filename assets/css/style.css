@@ -863,6 +863,7 @@ section {
   filter: brightness(93%);
   transition: all ease-in-out 0.3s;
   width: 32px;
+  top: 0!important;
 }
 
 .galeriaInsta:hover{

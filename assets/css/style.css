@@ -883,6 +883,18 @@ section {
   transition: all ease-in-out 0.3s;
 }
 
+#logoJE{
+  filter: brightness(93%);
+  transition: all ease-in-out 0.3s;
+  width: 64px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#logoJE:hover{
+  filter: brightness(100%);
+  transition: all ease-in-out 0.3s;
+}
+
 .counts {
   background: url("../img/j16.jpg") center center no-repeat;
   background-size: cover;
